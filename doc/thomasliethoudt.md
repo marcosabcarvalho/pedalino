@@ -2,4 +2,6 @@ lors de cette première séance, nous avons fait le choix de notre projet. Il se
 
 Lors de cette première séance nous avons donc crée le projet sur GitHub. Nous avons ensuite commencé les recherches internet sur un eventuel projet existant de pedale multi effets a partir de arduino. Nous avons trouvé un site assez complet d'un projet similaire au notre. Voici le lien :
 
-        lien :
+        lien :  https://diyhacking.com/arduino-diy-guitar-pedal/
+                http://www.instructables.com/id/Arduino-Guitar-Pedal/
+                http://www.tubefr.com/pedale-de-guitare-arduino-lo-fi.html
