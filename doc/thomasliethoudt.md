@@ -1,4 +1,4 @@
-Voici le lien qui mène vers les composants nécessaire : 
+https://github.com/thomasliethoudt/pedalino/blob/master/liste%20mat%C3%A9riel.pngVoici le lien qui mène vers les composants nécessaire : 
 SEANCE DU 20 DECEMBRE
 
 lors de cette première séance, nous avons fait le choix de notre projet. Il se porte sur le domaine de la musique. Nous voulons réaliser une pédale multi effets pour une guitare elctrique à l'aide de l'arduino. Le but de projet et d'imaginer et créer notre propre effets sonores en programmant l'arduino. Dans un second temps, le but serait de pouvoir modifier les effets de la pédale à partir d'un téléphone. c'est à dire ne pas utiliser de potentiométre mais de faire varier une bouton interactif sur l'ecran par exemple.
@@ -24,4 +24,6 @@ Lors de cette séance, nous avons repris la pedalshield sur internet. La pedalsh
 il se trouve que des pack sont proposé à la vente pour monter sa propre pédale avec arduino. Nous comptons donc nous inspirer des schemas de la data shield en open source. Nous avons commencé à regarder la liste des composants nécessaire que nous allons commander. 
 
 Voici le lien qui mène vers les composants nécessaire : 
+https://github.com/thomasliethoudt/pedalino/blob/master/liste%20mat%C3%A9riel.png
+
 Nous avons commencer à essayer de comprendre le code, par exemple, comparer le code d'un delay et d'une disto pour voir ce qui change.
