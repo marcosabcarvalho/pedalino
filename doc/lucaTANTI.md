@@ -10,6 +10,7 @@ Nous disposons déjà d'un multi-effet où nous pouvons récupérer du matériel
 ______________________________________________________________________________________________________________________________________________
 # Séance du 10/01/2018
 Nous avon continué à nous renseigner sur les différents projets déjà rélalisés. Nous avons donc décider de partir sur une base de la pédale pedalShield (https://diyhacking.com/arduino-diy-guitar-pedal/ ).  
+Ce projet a pour avantage de pouvoir gérer un nombre important d'effets à l'inverse d'autres projets trouvés sur Internet.  
 Nous avons commencé à nous renseigner sur le matériel que nous allons de voir utiliser.  
 La liste du matériel est la suivante: https://github.com/thomasliethoudt/pedalino/blob/master/liste%20mat%C3%A9riel.png
 
