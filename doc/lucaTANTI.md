@@ -7,3 +7,6 @@ Le projet le plus proche de la pédale que l'on voudrait réaliser est la pédal
 Le but du contrôle en bluetooth serait de sélectionner un des différents effets programmé sur une application, puis le téléphone enverrait l'informaion en bluetooth à l'arduino.  
 Nous avons également contacté Anasounds afin d'avoir quelques informations sur la fabrication des pédales d'effets. 
 Nous disposons déjà d'un multi-effet où nous pouvons récupérer du matériel.
+# Séance du 10/01/2018
+Nous avon continué à nous renseigner sur les différents projets déjà rélalisés. Nous avons donc décider de partir sur une base de la pédale pedalShield (https://diyhacking.com/arduino-diy-guitar-pedal/ ).  
+Nous avons commencé à nous renseigner sur le matériel que nous allons de voir utiliser.
