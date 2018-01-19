@@ -3,3 +3,8 @@ PWM_MODE:
   Permet de régler le PWM en Mode "Fast" ou en mode "Phase Correct",  
     en mode Fast le timer compte de 0 à 255 et s'arrête et revient à 0 lorsqu'il atteind la valeur demandée.  
     en mode Phase Correct le timer compte de 0 à 255 et lorsqu'il atteind la valeur demandé il compte à l'envers pour revenir à 0.
+PWM_QTY: Permet de combiner plusieurs sortie PWM.
+ADC est un convertisseur analogique vers numérique. Il comprend :
+  ADMUX: Sélectionne le voltage de réferrence pour la conversion 
+  
+  
