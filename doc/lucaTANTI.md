@@ -14,3 +14,5 @@ Ce projet a pour avantage de pouvoir gérer un nombre important d'effets à l'in
 Nous avons commencé à nous renseigner sur le matériel que nous allons de voir utiliser.  
 La liste du matériel est la suivante: https://github.com/thomasliethoudt/pedalino/blob/master/liste%20mat%C3%A9riel.png
 
+# Séance du 21/12/2017  
+Cette séance a été consacrée pour moi à essayer de mieux comprendre un code déjà existant d'effet pour la pédale pedalshield. Le code utilisant des fonctions de l'arduino encore jamais utilisées en cours j'ai du essayer de trouver quelques informations sur internet pour ses nouvelles fonctions. Le code est disponible dans le dossier code tout comme le début des explications du code dans le fichier explications.txt. Il reste encore cependant plusieurs fonctions que l'on ne connait pas et les explications sur Internet sont assez rares. J'ai également commencé a créer un exemple d'interface sur le téléphone pour le futur envoie des informations en Bluetooth et un debut de code qui utilise pour l'instant des LEDs car nous n'avons pas encore le matériel.
