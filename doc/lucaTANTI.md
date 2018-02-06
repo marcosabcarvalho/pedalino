@@ -16,3 +16,10 @@ La liste du matériel est la suivante: https://github.com/thomasliethoudt/pedali
 
 # Séance du 19/01/2018 
 Cette séance a été consacrée pour moi à essayer de mieux comprendre un code déjà existant d'effet pour la pédale pedalshield. Le code utilisant des fonctions de l'arduino encore jamais utilisées en cours j'ai du essayer de trouver quelques informations sur internet pour ces nouvelles fonctions. Le code est disponible dans le dossier code tout comme le début des explications du code dans le fichier explications.txt. Il reste encore cependant plusieurs fonctions que l'on ne connait pas et les explications sur Internet sont assez rares. J'ai également commencé a créer un exemple d'interface sur le téléphone pour le futur envoie des informations en Bluetooth et un debut de code qui utilise pour l'instant des LEDs car nous n'avons pas encore le matériel.
+
+# Séance du 24/01/2018 
+Cette séance nous vans fait notre première présentation de notre projet. Comme nous n'avions pas le matériel afin de commencer à réaliser notre projet nous avons continués à se renseigner sur notre projet au niveau du code.
+
+
+# Séance du 06/02/2018 
+Nous avons reçu une partie du matériel. Nous avons vérifier ce qu'il nous manque puis j'ai commencé à assembler les composants de la pédale avec les composants que nous avons reçu. 
