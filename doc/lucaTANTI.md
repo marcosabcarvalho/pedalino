@@ -23,3 +23,6 @@ Cette séance nous vans fait notre première présentation de notre projet. Comm
 
 # Séance du 06/02/2018 
 Nous avons reçu une partie du matériel. Nous avons vérifier ce qu'il nous manque puis j'ai commencé à assembler les composants de la pédale avec les composants que nous avons reçu. 
+
+# Séance du 19/02/2018
+Nous avons reçu une seconde partie du matériel (jack et amplificateur). Nous avons soudé des fils sur le jack afin de pouvoir le brancher et j'ai continué le branchement des composants de la pédale d'effet.
