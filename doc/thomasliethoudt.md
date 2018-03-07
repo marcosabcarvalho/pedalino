@@ -18,7 +18,7 @@ Lors de cette première séance nous avons donc crée le projet sur GitHub. Nous
 _______________________________________________________________________________________________________________________________________
 
 
-SEANCE DU 10 JANVIER
+SEANCE DU 10 janvier 2018
 
 Lors de cette séance, nous avons repris la pedalshield sur internet. La pedalshniel est également présente sur GitHub.
 il se trouve que des pack sont proposé à la vente pour monter sa propre pédale avec arduino. Nous comptons donc nous inspirer des schemas de la data shield en open source. Nous avons commencé à regarder la liste des composants nécessaire que nous allons commander. 
@@ -27,3 +27,26 @@ Voici le lien qui mène vers les composants nécessaire :
 https://github.com/thomasliethoudt/pedalino/blob/master/liste%20mat%C3%A9riel.png
 
 Nous avons commencer à essayer de comprendre le code, par exemple, comparer le code d'un delay et d'une disto pour voir ce qui change.
+_______________________________________________________________________________________________________________________________
+
+SEANCE DU 19 janvier
+
+Pour cette séance, j'ai recherché des infos complémentaire sur les schémas electriques pour mieux les comprendre. J'ai fait des recherches plus générales sur les pédales analogiques et numériques. Leur fonctionnement, avantages et inconvénients dans un cadre musical car je n'ai pas tellement de connaissance dans le domaine. Le numérique présente des points positifs, notamment en terme de prix et de place. Mais la qualité de l'analogique reste supérieur au numérique.
+_______________________________________________________________________________________________________________________________
+
+SEANCE du 24 janvier 2018
+
+Pour cette séance, nous avons assister aux présentations des projets de toute la classe. Nous avons également fait la présentation de notre projet. Ensuite j'ai travailler sur le module bluetooth que luca avait crée avec des LED la semaine passé. J'ai eu quelques difficultés, car j'essayais de faire varier l'intensité de la LED choisi avec le PWM, tout en éteignant les autres LED non utilisées. Je n'ai pas réussi.
+_______________________________________________________________________________________________________________________________
+
+SEANCE DU 06 février 2018
+
+Cette séance, nous avons recu le matériel. Nous avons donc commencé à regarder le schéma electrique pour voir ce que nous pouvions déjà commencé à monter. Luca a commencé à monter la plaque. J'ai continué à travailler sur l'application bluetooth. 
+
+________________________________________________________________________________________________________________________________
+
+SEANCE DU 19 février 2018
+
+Pour cette séance, j'ai tenté de modifier le code de la distorsion pour y mettre la fonctionnalité bluetooth. J'ai repérer quels étaient les paramètres qui variaient dans le code pour savoir sur quoi le code du blutooth allait agir. Je n'ai pas beaucoup avancé étant donné mes lacunes en code.
+
+Par ailleurs nous avons avec Luca, apprit à souder. En effet nous avons soudé des petits fils sur chacun des jack pour les connecter au circuit.
