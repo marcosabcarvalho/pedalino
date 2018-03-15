@@ -26,3 +26,6 @@ Nous avons reçu une partie du matériel. Nous avons vérifier ce qu'il nous man
 
 # Séance du 19/02/2018
 Nous avons reçu une seconde partie du matériel (jack et amplificateur). Nous avons soudé des fils sur le jack afin de pouvoir le brancher et j'ai continué le branchement des composants de la pédale d'effet.
+
+# Séance du 12/03/2018
+La quasi totalité du matériel est arrivé, les branchements sont faits il ne manque plus que le footswitch à connecter et la led. Mais la pédale peut théoriquement fonctionner. Après le premier test il apparait qu'elle fonctionne par intermittance. Il doit surement y avoir un problème au niveau de certaines connections.
