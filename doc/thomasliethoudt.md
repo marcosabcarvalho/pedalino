@@ -26,6 +26,7 @@ il se trouve que des pack sont proposé à la vente pour monter sa propre pédal
 Voici le lien qui mène vers les composants nécessaire : 
 https://github.com/thomasliethoudt/pedalino/blob/master/liste%20mat%C3%A9riel.png
 
+
 Nous avons commencer à essayer de comprendre le code, par exemple, comparer le code d'un delay et d'une disto pour voir ce qui change.
 _______________________________________________________________________________________________________________________________
 
@@ -50,3 +51,19 @@ SEANCE DU 19 février 2018
 Pour cette séance, j'ai tenté de modifier le code de la distorsion pour y mettre la fonctionnalité bluetooth. J'ai repérer quels étaient les paramètres qui variaient dans le code pour savoir sur quoi le code du blutooth allait agir. Je n'ai pas beaucoup avancé étant donné mes lacunes en code.
 
 Par ailleurs nous avons avec Luca, apprit à souder. En effet nous avons soudé des petits fils sur chacun des jack pour les connecter au circuit.
+
+_________________________________________________________________________________________________________________________________
+
+SEANCE DU 12 MARS 2018
+
+Lors de cette seance,nous avons
+
+
+________________________________________________________________________________________________________________________________
+
+SEANCE DU 26 MARS 2018
+
+Lors de cette séance, nous avons testé le signal à différent endroits de notre pédale, tout en changeant les effets pour visualiser le signal sortant sur l'oscilloscope. Il s'avère que quelques petites choses ne fonctionnent pas comme prévu.
+on arrive à avoir des fréquences d'entrée de plus de 5KHz alors que les passes  bas avant l'arduino sont censés filtrés les frequence au dela de 5KHz. De plus les signaux visualiser sur l'oscilloscopo n'ont pas la forme attendue.
+
+
