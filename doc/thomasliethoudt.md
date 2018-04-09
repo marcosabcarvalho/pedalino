@@ -23,6 +23,9 @@ SEANCE DU 10 janvier 2018
 Lors de cette séance, nous avons repris la pedalshield sur internet. La pedalshniel est également présente sur GitHub.
 il se trouve que des pack sont proposé à la vente pour monter sa propre pédale avec arduino. Nous comptons donc nous inspirer des schemas de la data shield en open source. Nous avons commencé à regarder la liste des composants nécessaire que nous allons commander. 
 
+
+
+
 Voici le lien qui mène vers les composants nécessaire : 
 https://github.com/thomasliethoudt/pedalino/blob/master/liste%20mat%C3%A9riel.png
 
@@ -66,4 +69,13 @@ SEANCE DU 26 MARS 2018
 Lors de cette séance, nous avons testé le signal à différent endroits de notre pédale, tout en changeant les effets pour visualiser le signal sortant sur l'oscilloscope. Il s'avère que quelques petites choses ne fonctionnent pas comme prévu.
 on arrive à avoir des fréquences d'entrée de plus de 5KHz alors que les passes  bas avant l'arduino sont censés filtrés les frequence au dela de 5KHz. De plus les signaux visualiser sur l'oscilloscopo n'ont pas la forme attendue.
 
+_________________________________________________________________________________________________________________________________________
 
+SEANCE DU 5 AVRIL 2018
+
+Lors de cette seance nous avons fait notre seconde presentation du projet en idiquant les difficultés rencontée, les avancés et le innovations futures.
+Nous avons commencé a regrouper tout les fichiers des effets dans un même programme et avec le bluetooth
+
+SEANCE DU 9 AVRIL 2018
+
+lors de cette seance j'ai continué a regrouper les effets dans un même programme avec le bluetooth, je n'ai pas eu le temps de tester le dispositif bluettooth avec l'oscilloscope
