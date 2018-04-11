@@ -34,7 +34,7 @@ La quasi totalité du matériel est arrivé, les branchements sont faits il ne m
 La pédale d'effet fonctionne il y a cependant un petit faux contact au niveau d'une des capacités. Nous avons étudier le signal de sortie de la pédale sur oscilloscope en fontion de l'effet sélectionné.
 
 # Séance du 5/04/2018
-Aujourd'hui nous sommes passés à la présentation orale. Nous avons pu exposer notre problème quant à l'utilisation de l'Arduino Uno qui n'est pas assez puissante pour notre projet. Nous nous sommes ensuit concentré sur le code.
+Aujourd'hui nous sommes passés à la présentation orale. Nous avons pu exposer notre problème quant à l'utilisation de l'Arduino Uno qui n'est pas assez puissante pour notre projet. Nous nous sommes ensuit concentré sur le code. 
 
-#Séance du 9/04/2018
+# Séance du 9/04/2018
 Aujourd'hui j'ai soudé des fils sur le footswitch et j'ai cablé le footswitch sur la pédale. J'ai du chercher des schémas sur Internet pour comprendre son fonctionnement.
