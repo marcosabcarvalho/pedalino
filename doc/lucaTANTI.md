@@ -38,3 +38,9 @@ Aujourd'hui nous sommes passés à la présentation orale. Nous avons pu exposer
 
 # Séance du 9/04/2018
 Aujourd'hui j'ai soudé des fils sur le footswitch et j'ai cablé le footswitch sur la pédale. J'ai du chercher des schémas sur Internet pour comprendre son fonctionnement.
+
+# Séance du 2/05/2018
+Ajourd'hui nous nous sommes penché sur le code nous avons compilé différents effets dans le même fichier afin de pouvoir faire notre multi-efet. Nous avons par la suit commencé à intégrer le Bluetooth dans le fichier. Pour l'instant il ne fonctionne pas. 
+
+# Séance du 7/05/2018
+Aujourd'hui j'ai commencé à souder les differents composants de la pédale sur une PCB, afin de pouvoir intégrer facilement le montage et éviter des deconnexions des composants.
