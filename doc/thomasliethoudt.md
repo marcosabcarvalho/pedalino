@@ -82,7 +82,7 @@ lors de cette seance j'ai continué a regrouper les effets dans un même program
 
 SEANCE  DU 2 MAI
 
-Pour ces 2 dernières séances de projets j'ai commencé à réfléchir à la boîte qui allait acceuillir la pédale. J'ai tracé un brève plan car au début nous voulons réaliser une boite en bois. Nous avons regardé les bois que nous pouvions   prendre dans la salle d'elec mais nous nous sommes dit que nous allion prendre notre propre bois.
+Pour ces 2 dernières séances de projets j'ai commencé à réfléchir à la boîte qui allait acceuillir la pédale. J'ai tracé un brève plan car au début nous voulons réaliser une boite en bois. Nous avons regardé les bois que nous pouvions   prendre dans la salle d'elec mais nous nous sommes dit que nous allion prendre notre propre bois.Par ailleurs, nous avons abandonné l'idée de mettre un footswitch à la pédale. Etant donné  que les changements de l'intensité des effets etaient quasiment inaudible, nous avons décidé de ne pas pouvoir modifier l'intensité des effets.
 
 SEANCE  DU 7 MAI
 
