@@ -40,12 +40,12 @@ ________________________________________________________________________________
 
 SEANCE du 24 janvier 2018
 
-Pour cette séance, nous avons assister aux présentations des projets de toute la classe. Nous avons également fait la présentation de notre projet. Ensuite j'ai travailler sur le module bluetooth que luca avait crée avec des LED la semaine passé. J'ai eu quelques difficultés, car j'essayais de faire varier l'intensité de la LED choisi avec le PWM, tout en éteignant les autres LED non utilisées. Je n'ai pas réussi.
+Pour cette séance, nous avons assister aux présentations des projets de toute la classe. Nous avons également fait la présentation de notre projet. Ensuite j'ai travailler sur le module bluetooth que luca avait crée avec des LED la semaine passé. J'ai eu quelques difficultés, car j'essayais de faire varier l'intensité de la LED choisi avec le PWM, tout en éteignant les autres LED non utilisées.
 _______________________________________________________________________________________________________________________________
 
 SEANCE DU 06 février 2018
 
-Cette séance, nous avons recu le matériel. Nous avons donc commencé à regarder le schéma electrique pour voir ce que nous pouvions déjà commencé à monter. Luca a commencé à monter la plaque. J'ai continué à travailler sur l'application bluetooth. 
+Cette séance, nous avons recu le matériel. Nous avons donc commencé à regarder le schéma electrique pour voir ce que nous pouvions déjà commencé à monter. Luca a commencé à monter la plaque. J'ai continué à travailler sur l'application bluetooth     avec les LED pour pouvoir modifier leur intensité avec le pad bluetooth. 
 
 ________________________________________________________________________________________________________________________________
 
@@ -59,7 +59,7 @@ ________________________________________________________________________________
 
 SEANCE DU 12 MARS 2018
 
-Lors de cette seance,nous avons
+Lors de cette seance,nous nous sommes occupé du footswitch, étdier comment il se branchait au circuit avec les 9 fiches diffférentes. Nous avons soudé les fils au footswitch.
 
 
 ________________________________________________________________________________________________________________________________
@@ -78,4 +78,12 @@ Nous avons commencé a regrouper tout les fichiers des effets dans un même prog
 
 SEANCE DU 9 AVRIL 2018
 
-lors de cette seance j'ai continué a regrouper les effets dans un même programme avec le bluetooth, je n'ai pas eu le temps de tester le dispositif bluettooth avec l'oscilloscope
+lors de cette seance j'ai continué a regrouper les effets dans un même programme avec le bluetooth, je n'ai pas eu le temps de tester le dispositif bluettooth avec l'oscilloscope. J'ai renconntré beaucoup de difficultés à incrémenter le bluetooth dans le code des effets. Car si on regarde le code, Il y a des des TIMER ISR qui m'ont gêné. Le fichier du bluetooth est opérationnel normalement. A la maison nous allons voir si il marche.
+
+SEANCE  DU 2 MAI
+
+Pour ces 2 dernières séances de projets j'ai commencé à réfléchir à la boîte qui allait acceuillir la pédale. J'ai tracé un brève plan car au début nous voulons réaliser une boite en bois. Nous avons regardé les bois que nous pouvions   prendre dans la salle d'elec mais nous nous sommes dit que nous allion prendre notre propre bois.
+
+SEANCE  DU 7 MAI
+
+Cette semaine, nos idées ont changé. Etant donné les nombreux faux contact dans notre circuit , a cause de la qualité des fils, des soudures(parfois le son de la guitare se coupe et on entend plus rien, il faut alors chercher dans le circuit de ou cela vient). Si on a une boite en dur et que il y a un faut contact, il est trés difficile d'atteindre le circuit pour voir de ou le problème provient. Nous avons donc décider de faire une boite minimale, qui peut s'ouvrir facilement pour accéder au circuit.
