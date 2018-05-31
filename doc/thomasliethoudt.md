@@ -74,7 +74,7 @@ ________________________________________________________________________________
 SEANCE DU 5 AVRIL 2018
 
 Lors de cette seance nous avons fait notre seconde presentation du projet en idiquant les difficultés rencontée, les avancés et le innovations futures.
-Nous avons commencé a regrouper tout les fichiers des effets dans un même programme et avec le bluetooth
+Nous avons commencé a regrouper tout les fichiers des effets dans un même programme et avec le bluetooth, le but est de pouvoir avec le code bluetooth, choisir un effet en question.
 
 SEANCE DU 9 AVRIL 2018
 
